@@ -13,3 +13,10 @@ https://github.com/maritoo17/Simulacro_Redes/edit/main/README.md
   - En OSI: asegura la entrega de datos sin errores en secuencia y sin duplicaciones.
   - En TCP/IP: se encarga de la transmisión de datos entre dispositivos, pero permite comunicación         confiable (TCP) o no confiable (UDP).
 
+#### Ejercicio 3: TCP vs UDP
+
+- En cuanto a terminos de orientación a conexión encontramos que el TCP es orientado a conexión mientras que el UDP no es orientado a conexión.
+- El TCP es mucho mas fiable debido a que usa acuses de recibo retransmisiones mientras que el UDP no es confiable debido a que no usa acuses de recibo.
+- En términos de velocidad y orden de entrega, el TCP es mucho mejor en cuanto al orden ya que garantiza que los datos llegan pero es más lento debido a que tiene un control de errores. El UDP en cambio, no garantiza el orden de llegada y es más rápido debido a que no tiene un control de errores.
+
+#### Ejercicio 4: Protocolo para Transferencia de archivos
